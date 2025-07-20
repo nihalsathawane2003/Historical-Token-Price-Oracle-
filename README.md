@@ -5,7 +5,7 @@ This is a full-stack web application that shows the current price of cryptocurre
 
 ## Live Demo
 
-Frontend: [https://your-vercel-link.vercel.app]()
+Frontend: [(https://historical-token-price-oracle.vercel.app/)]()
 
 Backend API: [https://your-backend-api-url.com](https://your-backend-api-url.com)
 
